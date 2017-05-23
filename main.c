@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*=Вношу измениния=*/
+/*LAB13*/
 int main()
 {
 float x,eps,k,f=0,a, r=1;
