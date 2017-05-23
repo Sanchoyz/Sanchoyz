@@ -1,4 +1,5 @@
 #include <stdio.h>
+/*Вношу измениния*/
 int main()
 {
 float x,eps,k,f=0,a, r=1;
